@@ -2,10 +2,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Henry_Cavill_by_Gage_Skidmore_2.jpg/220px-Henry_Cavill_by_Gage_Skidmore_2.jpg" width="200" height="">
 
-Estudiante de Bachillerato y Licenciatura en Geografía de la [Universidad de Costa Rica](https://www.ucr.ac.cr/). 
-Edad: 21 Años
-Cel: 2222-3356
-Correo: antony.corderozuniga@ucr.ac.cr 
+Estudiante de Bachillerato y Licenciatura en Geografía de la [Universidad de Costa Rica](https://www.ucr.ac.cr/).       
+Edad: 21 Años.      
+Cel: 2222-3356.      
+Correo: antony.corderozuniga@ucr.ac.cr      
 
 ## Areas de Interés    
 - Sistemas de Información Geografica. 
