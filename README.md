@@ -36,12 +36,12 @@ Correo: antony.corderozuniga@ucr.ac.cr
 
 ## Referencias
 
-- Jose Luis Gamboa. Geógrafo. 
-    -Tel: 5623 2365    
-    -Correo: Josegamboa@hotmail.com       
-- Hellen Bonilla. Geografa
-    -Tel: 6525 9874
-    -Correo: bonilla19@hotmail.com
+- Jose Luis Gamboa. Geógrafo.       
+    -Tel: 5623 2365       
+    -Correo: Josegamboa@hotmail.com         
+- Hellen Bonilla. Geografa     
+    -Tel: 6525 9874       
+    -Correo: bonilla19@hotmail.com    
     
  
 
